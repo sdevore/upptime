@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: CFSD Community Schools
     url: https://cs3.cfsd16.org
+  - name: Congregation Beit Simcha
+    url: https://beitsimchatucson.org
   - name: Tricon Residential
     url: https://triconresidential.com
   - name: NCX
