@@ -4,15 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: CFSD Community Schools
+    url: https://cs.cfsd16.org
+  - name: CFSD Staging Community Schools
     url: https://cs3.cfsd16.org
   - name: Congregation Beit Simcha
     url: https://beitsimchatucson.org
-  - name: Tricon Residential
-    url: https://triconresidential.com
   - name: NCX
     url: https://ncx.com
   - name: Creative Slice
     url: https://creativeslice.com
+  - name: Abby Thesis
+    url: https://thesis.abigaildevore.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
