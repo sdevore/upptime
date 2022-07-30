@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/beitsimchatucson.org",
     "slug": "congregation-beit-simcha",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 340,
     "timeWeek": 317,
     "timeMonth": 395,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2022-07-29": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NCX",
