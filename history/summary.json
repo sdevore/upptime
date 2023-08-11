@@ -4,18 +4,20 @@
     "url": "https://cs.cfsd16.org",
     "icon": "https://icons.duckduckgo.com/ip3/cs.cfsd16.org.ico",
     "slug": "cfsd-community-schools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 570,
-    "timeWeek": 415,
-    "timeMonth": 382,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "time": 386,
+    "timeDay": 385,
+    "timeWeek": 388,
+    "timeMonth": 376,
+    "timeYear": 386,
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   },
   {
     "name": "CFSD Stage Community Schools",
