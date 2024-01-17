@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 603,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 402,
+    "time": 403,
+    "timeDay": 447,
+    "timeWeek": 521,
+    "timeMonth": 469,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 612,
-    "timeWeek": 510,
-    "timeMonth": 510,
+    "timeDay": 419,
+    "timeWeek": 552,
+    "timeMonth": 500,
     "timeYear": 455,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
-    "timeDay": 235,
-    "timeWeek": 343,
-    "timeMonth": 343,
+    "timeDay": 359,
+    "timeWeek": 315,
+    "timeMonth": 345,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 504,
-    "timeDay": 601,
-    "timeWeek": 493,
-    "timeMonth": 493,
-    "timeYear": 504,
+    "time": 503,
+    "timeDay": 390,
+    "timeWeek": 519,
+    "timeMonth": 481,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2023-08-24": 24
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 275,
-    "timeDay": 322,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 275,
+    "time": 276,
+    "timeDay": 297,
+    "timeWeek": 342,
+    "timeMonth": 329,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2023-08-18": 55
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 416,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 416,
+    "time": 414,
+    "timeDay": 247,
+    "timeWeek": 250,
+    "timeMonth": 267,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-09-01": 16,
       "2023-08-20": 36
