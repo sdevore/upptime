@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 76,
-    "timeWeek": 440,
-    "timeMonth": 419,
-    "timeYear": 405,
+    "time": 403,
+    "timeDay": 220,
+    "timeWeek": 401,
+    "timeMonth": 417,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 262,
-    "timeWeek": 506,
-    "timeMonth": 474,
-    "timeYear": 458,
+    "time": 455,
+    "timeDay": 114,
+    "timeWeek": 462,
+    "timeMonth": 467,
+    "timeYear": 455,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 311,
-    "timeWeek": 281,
-    "timeMonth": 304,
+    "timeDay": 312,
+    "timeWeek": 280,
+    "timeMonth": 299,
     "timeYear": 326,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 493,
-    "timeDay": 303,
-    "timeWeek": 457,
-    "timeMonth": 455,
-    "timeYear": 493,
+    "time": 491,
+    "timeDay": 232,
+    "timeWeek": 428,
+    "timeMonth": 453,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2023-08-24": 24
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 281,
-    "timeDay": 139,
-    "timeWeek": 301,
-    "timeMonth": 303,
-    "timeYear": 281,
+    "time": 280,
+    "timeDay": 205,
+    "timeWeek": 294,
+    "timeMonth": 301,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2023-08-18": 55
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 386,
-    "timeDay": 287,
-    "timeWeek": 258,
+    "time": 385,
+    "timeDay": 294,
+    "timeWeek": 265,
     "timeMonth": 273,
-    "timeYear": 386,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2023-09-01": 16,
       "2023-08-20": 36
