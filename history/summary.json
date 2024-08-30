@@ -58,19 +58,19 @@
     "url": "https://ncx.com",
     "icon": "https://icons.duckduckgo.com/ip3/ncx.com.ico",
     "slug": "ncx",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 538,
-    "timeWeek": 1749,
-    "timeMonth": 1178,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
+    "time": 598,
+    "timeDay": 717,
+    "timeWeek": 1642,
+    "timeMonth": 1169,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-08-30": 0
+      "2024-08-30": 72
     }
   },
   {
