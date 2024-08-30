@@ -58,9 +58,9 @@
     "url": "https://ncx.com",
     "icon": "https://icons.duckduckgo.com/ip3/ncx.com.ico",
     "slug": "ncx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1749,
     "timeMonth": 1178,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "Creative Slice",
@@ -77,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativeslice.com.ico",
     "slug": "creative-slice",
     "status": "down",
-    "uptime": "68.00%",
+    "uptime": "68.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
